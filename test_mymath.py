@@ -1,7 +1,7 @@
 import mymath
 
 def test_mymath_add():
-    assert mymath.add_three(1,2, 3) == 6
+    assert mymath.add_three(1, 2, 3) == 6
 
 def test_mymath_sub():
     assert mymath.subtract_three(8, 2, 1) == 5
